@@ -1,0 +1,61 @@
+Assuma o papel de um estrategista de conteúdo e roteirista especializado em vídeos informativos dinâmicos para redes sociais (YouTube, Instagram ou LinkedIn).
+
+CONTEXTO:
+Você está produzindo o segundo vídeo do CM News, referente ao mês de fevereiro. O CM News é um boletim informativo com curadoria de conteúdos relevantes, sobre a atuação da Microrregião Chapada de Minas do SEBRAE.
+As informações-base devem ser EXTRAÍDAS EXCLUSIVAMENTE do relatório consolidado no NotebookLM (fontes previamente analisadas). Não invente dados — apenas organize, sintetize e traduza os principais pontos.
+
+OBJETIVO:
+Criar um roteiro envolvente, claro e estratégico, que informe e retenha a atenção do público do início ao fim, com linguagem acessível e ritmo dinâmico, sobre as ações do mês de fevereiro.
+
+TAREFA:
+Desenvolva um roteiro completo para vídeo, contendo:
+
+1. Hook inicial (3–5 segundos)
+   - Algo chamativo, que gere curiosidade ou urgência
+   - Pode ser uma pergunta, dado impactante ou promessa
+
+2. Abertura
+   - Contextualização rápida do CM News e do mês de fevereiro
+   - O que o público vai aprender/ver
+
+3. Principais destaques 
+   Para cada destaque:
+   - Título curto
+   - Explicação clara e objetiva da ação
+   - Por que isso importa (impacto ou insight)
+   - (Opcional) opinião ou análise breve
+
+4. Transições naturais entre os tópicos
+
+5. Fechamento
+   - Recap rápido ou mensagem final
+   - Call to action (seguir, comentar, compartilhar, etc.)
+
+CRITÉRIOS DE QUALIDADE:
+- Linguagem fluida, natural e envolvente (evitar tom robótico)
+- Clareza e objetividade (sem enrolação)
+- Ritmo dinâmico (pensado para retenção)
+- Fidelidade às fontes do NotebookLM
+- Conteúdo com valor real (insight, não só informação superficial)
+
+FORMATO DE SAÍDA:
+- Estruture como roteiro de vídeo
+- Use marcações como:
+  [HOOK]
+  [ABERTURA]
+  [DESTAQUE 1]
+  [DESTAQUE 2]
+  ...
+  [FECHAMENTO]
+- Frases curtas e faláveis (pensadas para narração)
+
+RESTRIÇÕES:
+- Não inventar dados fora das fontes
+- Evitar jargões excessivos
+- Não ser genérico — priorizar especificidade e relevância
+
+INFORMAÇÕES ESPECÍFICAS:
+- Público-alvo: equipe interna de colaboradores do sebrae Minas
+- Plataforma principal: youtube
+- Duração desejada: 6 a 8 minutos
+- Tom de voz: leve e descontraído.
